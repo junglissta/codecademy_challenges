@@ -1,5 +1,6 @@
 # codecademy_challenges
  python code challenges
+ 
 COMPARATIVE WEIGHTS:
 Suppose you had n basketballs, all of them seemingly identical. You are given a balance scale and told that one of the n balls is slightly heavier than the others. What’s the fewest number of times you have to use the scale to find the outlier? You can assume that the scale is very large and able to fit all n balls on each side. Write a scale_of_truth_n() function that takes in the number of basketballs and determines the minimum number of weighs that you’ll need to find the outlier.
 
